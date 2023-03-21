@@ -1,6 +1,6 @@
-# ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Aspectos básicos 
+# Aspectos básicos 
 
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ¿Qué es **Python**?
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) ¿Qué es **Python**?
 
 - **Python** es un **lenguaje de programación:** lenguaje artificial que se usa para dar instrucciones que controlan una máquina.
 - tal como en las lenguas naturales, es posible definir elementos que se combinan (una sintaxis) y que portan un significado (una semántica).
